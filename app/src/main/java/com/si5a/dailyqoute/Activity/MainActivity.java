@@ -1,8 +1,10 @@
-package com.si5a.dailyqoute;
+package com.si5a.dailyqoute.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.si5a.dailyqoute.R;
 
 public class MainActivity extends AppCompatActivity {
 
